@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/gerson-urrea-pereira-110925259/">Jerson Pereira</a> 👋</h1>
 </div>
-<img src="https://postimg.cc/62whxwy4">
+<img src="https://i.postimg.cc/yVvMMDrM/Colorful-Bold-Modern-Art-Exhibition-Event-Landscape-Banner.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)

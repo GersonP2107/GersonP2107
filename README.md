@@ -2,7 +2,7 @@
 
 <p>Soy un apasionado Desarrollador Full Stack, con experiencia en desarrollo de aplicaciones web. ¨Por lo cual me gusta trabajar y explorar tecnologías y frameworks de JavaScript.</p>
 
-![](https://komarev.com/ghpvc/?username=ibrahimmemonn)
+
 
 - 🖥 Actualmente estoy aprendiendo **Next.js**
 

@@ -12,9 +12,9 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<span align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,figma,js,ts,cpp,html&theme=light)](https://skillicons.dev)
-</span>
+
 
 <h3 align="center">Contactame</h3>
 <div align="center">

@@ -8,7 +8,7 @@
 
 - 💬 Preguntame sobre **React.js**
 
-- 📫 How to reach me **jersondev21@gmail.com**
+- 📫 How to reach me **contacto@pereiradev.com**
 
 
 <h3 align="center">Languages and Tools:</h3>

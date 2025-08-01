@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,figma,js,ts,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,figma,js,ts,astro,fastapi,py,html&theme=light)](https://skillicons.dev)
 
 
 <h3 align="center">Contactame</h3>

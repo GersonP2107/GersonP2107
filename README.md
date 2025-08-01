@@ -1,6 +1,5 @@
 <h2>Hola 👋, Soy Gerson Pereira</h2>
-
-<h3>¡Hola 👋, soy Gerson Pereira!</h3> <p>Soy un apasionado Desarrollador Full Stack especializado en el desarrollo de aplicaciones web. Me encanta explorar nuevas tecnologías y frameworks de JavaScript, y disfruto creando soluciones creativas y funcionales.</p>
+<p>Soy un apasionado Desarrollador Full Stack especializado en el desarrollo de aplicaciones web. Me encanta explorar nuevas tecnologías y frameworks de JavaScript, y disfruto creando soluciones creativas y funcionales.</p>
 
 - 🖥 Actualmente estoy aprendiendo **React Native**
 
